@@ -1,0 +1,29 @@
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.wrap {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.bg-red {
+	background: rgb(231, 3, 3);
+	color: antiquewhite;
+}
+
+.bg-blue {
+	background: blue;
+	color: antiquewhite;
+
+}
